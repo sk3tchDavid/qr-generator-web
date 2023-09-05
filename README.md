@@ -20,7 +20,6 @@ QR Code Generator is a simple web application that generates a QR code from a pr
 ## Getting Started
 
 1. Download
-
 2. Open Link-Entry\index.html
 
 
