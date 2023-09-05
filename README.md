@@ -1,6 +1,7 @@
 # QR Code Generator
 
 QR Code Generator is a simple web application that generates a QR code from a provided link and displays it.
+
 Test it [here](<https://kaleidoscopic-quokka-89680b.netlify.app/>)
 
 
